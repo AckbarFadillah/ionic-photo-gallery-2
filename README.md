@@ -1,4 +1,3 @@
 "# ionic-photo-gallery" 
-"# ionic-photo-gallery" 
-"# ionic-photo-gallery-2" 
-"# ionic-photo-gallery-2" 
+
+Aplikasi ini adalah aplikasi berbasis ionic untuk menampilkan galeri foto yang diambil dari kamera.# ionic-photo-gallery3
